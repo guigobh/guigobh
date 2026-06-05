@@ -1,19 +1,136 @@
-# Olá, eu sou o Luiz Guilherme 🤙
+<div align="center">
 
-### Segue abaixo alguns trabalhos que eu venho compartilhando com a comunidade. 👇
+# Luiz Guilherme
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://luizguilherme.netlify.app/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo-uEJoGWIFJVeqeASylECw) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizlinux_/)
+### SRE • Observability • Reliability • FinOps • AI for Operations
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigobh&show_icons=true&theme=tokyonight)
+I build practical engineering systems around **observability, incident response, automation and applied AI**.
 
-# Tecnologias que eu utilizo 🔥
+[![Blog](https://img.shields.io/badge/Blog-luizguilherme.netlify.app-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://luizguilherme.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo-uEJoGWIFJVeqeASylECw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizlinux_/)
+[![GitHub](https://img.shields.io/badge/GitHub-guigobh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guigobh)
 
-![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Blog](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Blog](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-### Entre outras como Docker, Kubernetes, etc...
+---
 
-# Últimos conteúdos disponibilizados por mim.
+## 👋 About me
 
-- [Criando uma infraestrutura na AWS com Terraform.](https://luizguilherme.netlify.app/posts/2022/08/criando-uma-infraestrutura-na-aws-com-terraform./)
--  [Guia da Sobrevivência do GIT.](https://luizguilherme.netlify.app/posts/2022/06/guia-de-sobreviv%C3%AAncia-do-git./)
-- [Comandos Básicos no Terminal Linux.](https://www.youtube.com/watch?v=-ypIZJR_Rw0&t=230s)
+I'm Luiz Guilherme, a technology professional focused on **Site Reliability Engineering and Observability**.
+
+My current interests are at the intersection of:
+
+- reliable systems and incident response;
+- observability strategy with metrics, logs, traces and SLOs;
+- cost awareness and FinOps for monitoring platforms;
+- platform engineering and automation;
+- AI copilots that help engineers reason better under operational pressure.
+
+I care about tools that are useful in real engineering life — not just demos that look good in a slide.
+
+---
+
+## 🧭 Current focus
+
+```mermaid
+mindmap
+  root((Engineering Focus))
+    Observability
+      Datadog
+      Prometheus
+      Grafana
+      OpenTelemetry
+    Reliability
+      SLOs
+      Incident Response
+      Runbooks
+      Postmortems
+    AI for Ops
+      Incident Copilots
+      Structured Analysis
+      Automation
+      Guardrails
+    FinOps
+      Monitoring Cost
+      Signal Quality
+      Noise Reduction
+```
+
+---
+
+## 🚧 Featured project
+
+### 🧭 Observability Incident Copilot
+
+A lab/portfolio project exploring how AI can support incident triage without replacing engineering judgment.
+
+The current MVP receives synthetic observability payloads and generates structured incident analysis with:
+
+- facts separated from hypotheses;
+- missing evidence made explicit;
+- next investigation steps;
+- operational risk summary;
+- communication draft;
+- postmortem seed.
+
+> Principle: **AI should reduce operational noise, not create false confidence.**
+
+---
+
+## 🛠️ Toolbox
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+</div>
+
+---
+
+## 📌 What I like to build
+
+- Observability workflows that help teams make better decisions.
+- Scripts and automations that reduce repetitive operational work.
+- Incident response tools focused on clarity, not noise.
+- Technical content that teaches practical infrastructure and reliability concepts.
+- AI-assisted engineering experiments with clear boundaries and verification.
+
+---
+
+## ✍️ Selected content
+
+- [Criando uma infraestrutura na AWS com Terraform](https://luizguilherme.netlify.app/posts/2022/08/criando-uma-infraestrutura-na-aws-com-terraform./)
+- [Guia de Sobrevivência do Git](https://luizguilherme.netlify.app/posts/2022/06/guia-de-sobreviv%C3%AAncia-do-git./)
+- [Comandos Básicos no Terminal Linux](https://www.youtube.com/watch?v=-ypIZJR_Rw0&t=230s)
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigobh&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigobh&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable systems, useful automation and practical AI for engineering teams.
+
+</div>

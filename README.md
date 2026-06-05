@@ -2,12 +2,12 @@
 
 # Luiz Guilherme
 
-### SRE • Observability • Reliability Engineering • FinOps • AI for Operations
+### SRE • Observabilidade • Reliability Engineering • FinOps • IA aplicada à operação
 
-I work at the intersection of **observability, incident response, automation and applied AI** — building practical systems that help engineering teams operate with more clarity and less noise.
+Atuo na interseção entre **observabilidade, resposta a incidentes, automação e IA aplicada** — criando sistemas práticos que ajudam times de engenharia a operar com mais clareza, menos ruído e melhores decisões.
 
 [![Newsletter](https://img.shields.io/badge/Newsletter-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/6957793287055261696/)
-[![Technical Archive](https://img.shields.io/badge/Technical%20Archive-Blog-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://luizguilherme.netlify.app/)
+[![Arquivo Técnico](https://img.shields.io/badge/Arquivo%20Técnico-Blog-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://luizguilherme.netlify.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo-uEJoGWIFJVeqeASylECw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizlinux_/)
 [![GitHub](https://img.shields.io/badge/GitHub-guigobh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guigobh)
@@ -16,85 +16,85 @@ I work at the intersection of **observability, incident response, automation and
 
 ---
 
-## 👋 About me
+## 👋 Sobre mim
 
-I'm Luiz Guilherme, a technology professional focused on **Site Reliability Engineering, Observability and operational excellence**.
+Sou Luiz Guilherme, profissional de tecnologia com foco em **Site Reliability Engineering, Observabilidade e excelência operacional**.
 
-My work is guided by a simple idea:
+Minha forma de pensar engenharia parte de uma ideia simples:
 
-> Reliable systems are not built only with tools. They are built with good signals, clear ownership, disciplined investigation and fast feedback loops.
+> Sistemas confiáveis não nascem apenas de ferramentas. Eles nascem de bons sinais, responsabilidades claras, investigação disciplinada e ciclos rápidos de aprendizado.
 
-My current focus is on:
+Hoje meus principais temas de estudo e atuação são:
 
-- observability strategy with metrics, logs, traces, events and SLOs;
-- incident response practices that separate facts, hypotheses and decisions;
-- monitoring cost awareness and FinOps for observability platforms;
-- automation that removes repetitive operational work;
-- AI copilots that help engineers reason better under pressure.
-
----
-
-## ✍️ Where I write
-
-My main writing channel today is my **LinkedIn Newsletter**, where I share practical reflections on technology, career, reliability, observability and engineering discipline.
-
-The older blog remains online as a **technical archive** from my career transition journey and early infrastructure content.
-
-- 📨 [Read my LinkedIn Newsletter](https://www.linkedin.com/newsletters/6957793287055261696/)
-- 📚 [Visit my technical archive](https://luizguilherme.netlify.app/)
+- estratégia de observabilidade com métricas, logs, traces, eventos e SLOs;
+- resposta a incidentes separando fatos, hipóteses e decisões;
+- FinOps aplicado a plataformas de observabilidade;
+- automação para reduzir trabalho operacional repetitivo;
+- IA aplicada à operação para apoiar análise, triagem e clareza técnica.
 
 ---
 
-## 🧭 Current focus
+## ✍️ Onde eu escrevo
+
+Meu canal principal de escrita hoje é minha **newsletter no LinkedIn**, onde compartilho reflexões práticas sobre tecnologia, carreira, confiabilidade, observabilidade e disciplina de engenharia.
+
+O blog antigo permanece online como **arquivo técnico** da minha transição de carreira e dos primeiros conteúdos sobre infraestrutura, Linux, Git, AWS e Terraform.
+
+- 📨 [Ler minha newsletter no LinkedIn](https://www.linkedin.com/newsletters/6957793287055261696/)
+- 📚 [Acessar meu arquivo técnico](https://luizguilherme.netlify.app/)
+
+---
+
+## 🧭 Foco atual
 
 ```mermaid
 mindmap
-  root((Engineering Focus))
-    Observability
+  root((Foco em Engenharia))
+    Observabilidade
       Datadog
       Prometheus
       Grafana
       OpenTelemetry
-      Signal Quality
-    Reliability
+      Qualidade de sinal
+    Confiabilidade
       SLOs
       Incident Response
       Runbooks
       Postmortems
-      Operational Discipline
-    AI for Operations
-      Incident Copilots
-      Structured Analysis
-      Automation
+      Disciplina operacional
+    IA para Operações
+      Copilotos de incidente
+      Análise estruturada
+      Automação
       Guardrails
     FinOps
-      Monitoring Cost
-      Platform Efficiency
-      Noise Reduction
+      Custo de observabilidade
+      Eficiência de plataforma
+      Redução de ruído
 ```
 
 ---
 
-## 🚧 Featured project
+## 🚧 Projeto em destaque
 
 ### 🧭 Observability Incident Copilot
 
-A lab/portfolio project exploring how AI can support incident triage without replacing engineering judgment.
+Um projeto de laboratório e portfólio que explora como IA pode apoiar a triagem de incidentes sem substituir o julgamento de engenharia.
 
-The MVP receives synthetic observability payloads and generates structured incident analysis with:
+O MVP recebe payloads sintéticos de observabilidade e gera uma análise estruturada de incidente com:
 
-- facts separated from hypotheses;
-- missing evidence made explicit;
-- next investigation steps;
-- operational risk summary;
-- communication draft;
-- postmortem seed.
+- fatos separados de hipóteses;
+- evidências ausentes explicitadas;
+- próximos passos de investigação;
+- resumo de risco operacional;
+- rascunho de comunicação;
+- semente para postmortem.
 
-> Principle: **AI should reduce operational noise, not create false confidence.**
+> Princípio: **IA deve reduzir ruído operacional, não criar falsa confiança.**
 
 ---
 
-## 🛠️ Toolbox
+## 🛠️ Ferramentas e tecnologias
 
 <div align="center">
 
@@ -115,17 +115,17 @@ The MVP receives synthetic observability payloads and generates structured incid
 
 ---
 
-## 📌 What I like to build
+## 📌 O que gosto de construir
 
-- Observability workflows that help teams make better decisions.
-- Scripts and automations that reduce repetitive operational work.
-- Incident response tools focused on clarity, not noise.
-- Technical content that teaches practical infrastructure and reliability concepts.
-- AI-assisted engineering experiments with clear boundaries and verification.
+- Workflows de observabilidade que ajudam times a tomar decisões melhores.
+- Scripts e automações que reduzem trabalho operacional repetitivo.
+- Ferramentas de resposta a incidentes focadas em clareza, não em ruído.
+- Conteúdo técnico que ensina infraestrutura, confiabilidade e carreira de forma prática.
+- Experimentos de IA aplicada à engenharia com limites claros e validação real.
 
 ---
 
-## 📚 Selected archive content
+## 📚 Conteúdos do arquivo técnico
 
 - [Criando uma infraestrutura na AWS com Terraform](https://luizguilherme.netlify.app/posts/2022/08/criando-uma-infraestrutura-na-aws-com-terraform./)
 - [Guia de Sobrevivência do Git](https://luizguilherme.netlify.app/posts/2022/06/guia-de-sobreviv%C3%AAncia-do-git./)
@@ -133,13 +133,13 @@ The MVP receives synthetic observability payloads and generates structured incid
 
 ---
 
-## 📊 GitHub stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigobh&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub do Luiz](https://github-readme-stats.vercel.app/api?username=guigobh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigobh&layout=compact&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guigobh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -147,6 +147,6 @@ The MVP receives synthetic observability payloads and generates structured incid
 
 <div align="center">
 
-### Building reliable systems, useful automation and practical AI for engineering teams.
+### Transformando sinais em decisões operacionais melhores.
 
 </div>

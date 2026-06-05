@@ -2,11 +2,12 @@
 
 # Luiz Guilherme
 
-### SRE • Observability • Reliability • FinOps • AI for Operations
+### SRE • Observability • Reliability Engineering • FinOps • AI for Operations
 
-I build practical engineering systems around **observability, incident response, automation and applied AI**.
+I work at the intersection of **observability, incident response, automation and applied AI** — building practical systems that help engineering teams operate with more clarity and less noise.
 
-[![Blog](https://img.shields.io/badge/Blog-luizguilherme.netlify.app-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://luizguilherme.netlify.app/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/6957793287055261696/)
+[![Technical Archive](https://img.shields.io/badge/Technical%20Archive-Blog-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://luizguilherme.netlify.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo-uEJoGWIFJVeqeASylECw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizlinux_/)
 [![GitHub](https://img.shields.io/badge/GitHub-guigobh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guigobh)
@@ -17,17 +18,30 @@ I build practical engineering systems around **observability, incident response,
 
 ## 👋 About me
 
-I'm Luiz Guilherme, a technology professional focused on **Site Reliability Engineering and Observability**.
+I'm Luiz Guilherme, a technology professional focused on **Site Reliability Engineering, Observability and operational excellence**.
 
-My current interests are at the intersection of:
+My work is guided by a simple idea:
 
-- reliable systems and incident response;
-- observability strategy with metrics, logs, traces and SLOs;
-- cost awareness and FinOps for monitoring platforms;
-- platform engineering and automation;
-- AI copilots that help engineers reason better under operational pressure.
+> Reliable systems are not built only with tools. They are built with good signals, clear ownership, disciplined investigation and fast feedback loops.
 
-I care about tools that are useful in real engineering life — not just demos that look good in a slide.
+My current focus is on:
+
+- observability strategy with metrics, logs, traces, events and SLOs;
+- incident response practices that separate facts, hypotheses and decisions;
+- monitoring cost awareness and FinOps for observability platforms;
+- automation that removes repetitive operational work;
+- AI copilots that help engineers reason better under pressure.
+
+---
+
+## ✍️ Where I write
+
+My main writing channel today is my **LinkedIn Newsletter**, where I share practical reflections on technology, career, reliability, observability and engineering discipline.
+
+The older blog remains online as a **technical archive** from my career transition journey and early infrastructure content.
+
+- 📨 [Read my LinkedIn Newsletter](https://www.linkedin.com/newsletters/6957793287055261696/)
+- 📚 [Visit my technical archive](https://luizguilherme.netlify.app/)
 
 ---
 
@@ -41,19 +55,21 @@ mindmap
       Prometheus
       Grafana
       OpenTelemetry
+      Signal Quality
     Reliability
       SLOs
       Incident Response
       Runbooks
       Postmortems
-    AI for Ops
+      Operational Discipline
+    AI for Operations
       Incident Copilots
       Structured Analysis
       Automation
       Guardrails
     FinOps
       Monitoring Cost
-      Signal Quality
+      Platform Efficiency
       Noise Reduction
 ```
 
@@ -65,7 +81,7 @@ mindmap
 
 A lab/portfolio project exploring how AI can support incident triage without replacing engineering judgment.
 
-The current MVP receives synthetic observability payloads and generates structured incident analysis with:
+The MVP receives synthetic observability payloads and generates structured incident analysis with:
 
 - facts separated from hypotheses;
 - missing evidence made explicit;
@@ -109,7 +125,7 @@ The current MVP receives synthetic observability payloads and generates structur
 
 ---
 
-## ✍️ Selected content
+## 📚 Selected archive content
 
 - [Criando uma infraestrutura na AWS com Terraform](https://luizguilherme.netlify.app/posts/2022/08/criando-uma-infraestrutura-na-aws-com-terraform./)
 - [Guia de Sobrevivência do Git](https://luizguilherme.netlify.app/posts/2022/06/guia-de-sobreviv%C3%AAncia-do-git./)
